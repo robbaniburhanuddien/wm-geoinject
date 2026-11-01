@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# WM GeoInject outputs & logs
+_WM_GEOTAGGED/
+_WM_TANPA_WM/
+_WM_PERLU_BACA_MANUAL/
+pipeline.log
+wm_ocr_log.jsonl
+report.csv
+report_pending.csv
+chain.log
+
+# Scratch
+scratch/
+*.tmp.jpg
+_p2.json
+_r2.json
+_c2.jpg
+
+# OS
+.DS_Store
+Thumbs.db
